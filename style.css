@@ -2,3 +2,21 @@ html {
   height: 100%;
   width: 100%;
 }
+
+
+  .red{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+
+  }
+
+  .size{
+    font-size: 150%;
+  }
+  #Green{
+    color: greenyellow;
+  }
+  .underline{
+    text-decoration: underline;
+  }
+
